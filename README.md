@@ -1,4 +1,2 @@
 # Deploy-Promethes-and-Grafana-on-OCI-OKE
-
-    
-working progress
+Check PDF file for steps
